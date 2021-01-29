@@ -1,0 +1,8 @@
+add_subdirectory(aws_sdk)
+add_subdirectory(boost)
+add_subdirectory(catch2)
+add_subdirectory(compress)
+add_subdirectory(curl)
+add_subdirectory(libevent)
+add_subdirectory(mysql)
+add_subdirectory(openssl)
